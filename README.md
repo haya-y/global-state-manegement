@@ -1,2 +1,2 @@
-# global-state-manegement
+# atomic-design
 Created with CodeSandbox
